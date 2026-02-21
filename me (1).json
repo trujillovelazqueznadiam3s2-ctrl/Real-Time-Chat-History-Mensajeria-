@@ -1,0 +1,22 @@
+{
+  "nombres": "Nadia Itzel",
+  "apellidos": "Trujillo Velázquez",
+  "direccion": "Calle San Valentín, avenida San José",
+  "fechaDeNacimiento": "22-12-2009",
+  "aficiones": [
+    "programar",
+    "leer",
+    "videojuegos"
+  ],
+  "amigos": [
+    {
+      "nombres": "Samantha",
+      "apellidos": "Pulido"
+    },
+    {
+      "nombres": "Barbara",
+      "apellidos": "Coria"
+      "escuela": "CBTis 47"
+    }
+  ]
+}
